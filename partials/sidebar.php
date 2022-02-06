@@ -53,7 +53,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav nav-item"> 
-                <a href="#" class="nav-link"><i class="far fa circle nav-icon"></i>
+                <a href="?page=lokasiread" class="nav-link"><i class="far fa circle nav-icon"></i>
                 <p>lokasi</p>
              </li>
 

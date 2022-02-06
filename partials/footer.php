@@ -5,5 +5,5 @@
       <strong>Version</strong>0.1.0
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; <?= date('Y'); ?> <a href="javascript:void(0);">syabdar</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; <?= date('Y'); ?> <a href="javascript:void(0);">Syabdar</a>.</strong> All rights reserved.
   </footer>
